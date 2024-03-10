@@ -60,13 +60,13 @@ mass apportionment of airborne pollutants.
 ## Education
 
 `2008-2011`
-__Hebrew University, Jerusalem.__
+__Hebrew University, Jerusalem.__  
 Masters on air pollution meteorology, particularly, source identification and quantitative
 mass apportionment of airborne pollutants.
 
 `2004-2007`
-__Hebrew University, Jerusalem__
-B.Sc: Atmospheric Science
+__Hebrew University, Jerusalem__  
+B.Sc, Atmospheric Science
 
 
 <!-- ### Footer
