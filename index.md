@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Eliav Schmulewitz's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Eliav Schmulewitz
+Data Scientist
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,7 +13,8 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Pecan.ai
+
 
 ### Specialized in
 
