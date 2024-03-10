@@ -47,15 +47,6 @@ Language: Fluency in Hebrew and English; reading, writing and speaking
 Computers: Fluency in R (statistical analysis, geostatistics , data mining and more), experienced writing in python, perl, VBA, Javascript, C++, SQL, and many UNIX utilities, I worked with GIS software, both proprietary programs (arcGIS), and open source (GDAL, GRASS, GMT)
 
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-Masters on air pollution meteorology, particularly, source identification and quantitative
-mass apportionment of airborne pollutants.
- 
-
-
 
 ## Education
 
@@ -71,6 +62,6 @@ B.Sc, Atmospheric Science
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March, 2024 -->
 
 
