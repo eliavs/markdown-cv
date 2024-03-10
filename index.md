@@ -7,7 +7,8 @@ Data Scientist
 
 <div id="webaddress">
 <a href="eliavs@gmail.com">eliavs@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://stackoverflow.com/users/397521/eliavs">Stack overflow</a>
+|  <a href="https://stackoverflow.com/users/397521/eliavs">Linkdin</a>
 </div>
 
 
