@@ -6,10 +6,10 @@ title: Eliav Schmulewitz's CV
 Data Scientist
 
 <div id="webaddress">
-<a href="eliavs@gmail.com">eliavs@gmail.com</a>
-| <a href="https://stackoverflow.com/users/397521/eliavs">Stack overflow</a>
-|  <a href="https://stackoverflow.com/users/397521/eliavs">Linkdin</a>
- | <a href="https://stackoverflow.com/users/397521/eliavs">Github</a>
+<a target="_blank" rel="noopener noreferrer" href="eliavs@gmail.com">eliavs@gmail.com</a>
+| <a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/397521/eliavs">Stack overflow</a>
+|  <a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/397521/eliavs">Linkdin</a>
+ | <a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/397521/eliavs">Github</a>
 </div>
 
 
