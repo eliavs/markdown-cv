@@ -9,6 +9,7 @@ Data Scientist
 <a href="eliavs@gmail.com">eliavs@gmail.com</a>
 | <a href="https://stackoverflow.com/users/397521/eliavs">Stack overflow</a>
 |  <a href="https://stackoverflow.com/users/397521/eliavs">Linkdin</a>
+ | <a href="https://stackoverflow.com/users/397521/eliavs">Github</a>
 </div>
 
 
