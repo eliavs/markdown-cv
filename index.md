@@ -13,28 +13,30 @@ Data Scientist
 
 ## EXPERIENCE
 
-- 2022 - current **Pecan.ai**
+- 2022 - current **Pecan.ai**  
 Data Scientist  
 Developed and implemented demand sensing models using time series analysis.
 Utilized models like ARIMA, SARIMA, Prophet to forecast future demand for
 
-- 2018- 2022 **AT&T** 
+- 2018- 2022 **AT&T**   
 Data Scientist   
 Developed and tested ML projects from idea  into production environment 
 python with libraries such as SKLearn, NumPy, Pandas, Matplotlib, Keras and Tensor Flow.
 
-- 2017 – 2018 **Elastic media** 
+- 2017 – 2018 **Elastic media**   
 Algorithm developer  
  Working on the company's core algorithms using mainly image processing. Writing in python using libraries  such as   opencv and numpy
   
-- 2016 – 2017 **DMway analytics** 
+- 2016 – 2017 **DMway analytics**   
  Algorithm developer
 Developing prediction algorithms, writing mainly in R. 
 Applying the company's core technology for building an automated prediction tool. 
 Conducting data preparation and post processing using different flavors of SQL servers.
-- 2014 - 2016  **Sefaria** 
-Programmer, mainly text analysis in python 
-- 2009-2014 **ADAMA Environmental & Geological Sciences**, Shoham
+  
+- 2014 - 2016  **Sefaria**   
+Programmer, mainly text analysis in python
+
+- 2009-2014 **ADAMA Environmental & Geological Sciences**, Shoham  
 In charge of, and responsible for air quality modeling, renewable energy, technical issues and
 georeferencing.
 
