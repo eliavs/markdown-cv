@@ -41,9 +41,9 @@ In charge of, and responsible for air quality modeling, renewable energy, techni
 georeferencing.
 
 
-### Skills
+## Skills
 
-Language: Fluency in Hebrew and English; reading, writing and speaking
+Language: Fluency in Hebrew and English; reading, writing and speaking  
 Computers: Fluency in R (statistical analysis, geostatistics , data mining and more), experienced writing in python, perl, VBA, Javascript, C++, SQL, and many UNIX utilities, I worked with GIS software, both proprietary programs (arcGIS), and open source (GDAL, GRASS, GMT)
 
 
