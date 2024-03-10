@@ -6,7 +6,7 @@ title: Eliav Schmulewitz's CV
 Data Scientist
 
 <div id="webaddress">
- 0544990306
+ cell:0544990306
  |
 <a target="_blank" rel="noopener noreferrer" href="mailto:eliavs@gmail.com">eliavs@gmail.com</a>
 | <a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/397521/eliavs">Stack overflow</a>
