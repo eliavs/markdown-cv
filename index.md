@@ -3,6 +3,7 @@ layout: cv
 title: Eliav Schmulewitz's CV
 ---
 # Eliav Schmulewitz
+<!--- # <i class="far fa-id-badge"></i> Eliav Schmulewitz --->
 Data Scientist
 
 <div id="webaddress">
