@@ -8,7 +8,7 @@ Data Scientist
 <div id="webaddress">
 <a target="_blank" rel="noopener noreferrer" href="mailto:eliavs@gmail.com">eliavs@gmail.com</a>
 | <a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/397521/eliavs">Stack overflow</a>
-|  <a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/397521/eliavs">Linkdin</a>
+|  <a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/397521/eliavs](https://www.linkedin.com/in/eliav-schmulewitz-05924315/">Linkdin</a>
  | <a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/397521/eliavs">Github</a>
 </div>
 
