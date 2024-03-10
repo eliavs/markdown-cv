@@ -16,7 +16,7 @@ Data Scientist
 - `2022 - current` **Pecan.ai**  
 Data Scientist  
 Developed and implemented demand sensing models using time series analysis.
-Utilized models like ARIMA, SARIMA, Prophet to forecast future demand for
+Utilized both time series models like ARIMA, SARIMA, Prophet etc. and models for tabular data like: Boosting Models and Regularized Linear Regression. 
 
 - `2018- 2022` **AT&T**   
 Data Scientist   
