@@ -44,11 +44,47 @@ georeferencing.
 
 
 ## Skills
-
+### Programming Languages:
 - Python (NumPy, Pandas, SciPy, Scikit-learn, TensorFlow, PyTorch, cv2, etc)
 - Pyspark
 - R
 - SQL
+### Statistical Analysis and Modeling:
+- Regression Analysis
+- Classification and Clustering
+- Time Series Analysis
+- Hypothesis Testing
+### Big Data Technologies:
+- Hadoop
+- Spark
+- Hive
+- Pig
+
+### Data Wrangling and Preprocessing:
+- Data Cleaning
+- Feature Engineering
+- Data Transformation
+- Missing Data Imputation
+
+### Tools and Libraries:
+- Jupyter Notebooks
+- Anaconda
+- Git/GitHub
+- Docker
+- AWS/GCP/Azure
+
+### Version Control and Collaboration:
+- Git/GitHub
+- GitLab
+- Bitbucket
+- Collaborative Tools (Slack, Microsoft Teams)
+
+### Soft Skills:
+- Problem-Solving
+- Critical Thinking
+- Communication Skills
+- Teamwork and Collaboration
+
 
 
 
